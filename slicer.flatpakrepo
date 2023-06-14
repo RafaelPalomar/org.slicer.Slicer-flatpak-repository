@@ -1,0 +1,8 @@
+[Flatpak Repo]
+Title=Slicer
+Url=https://rafaelpalomar.github.io/org.slicer.Slicer-flatpak-repository
+Homepage=https://slicer.org/
+Comment=Central repository of Slicer Flatpak
+Description=Central repository of Slicer Flatpak
+Icon=https://dl.flathub.org/repo/logo.svg
+GPGKey=9261DF0CB805745549C8538827B8A2049B92FD3A
